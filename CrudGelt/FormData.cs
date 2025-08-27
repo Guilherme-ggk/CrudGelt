@@ -25,9 +25,6 @@ namespace CrudGelt
             dt = Livros.GetLivros();
             DgvLivros.DataSource = dt;
         }
-
-
-
         private void BtnAdicionar_Click(object sender, EventArgs e)
         {
             using (var frm = new FormCadastro(0))
@@ -47,11 +44,6 @@ namespace CrudGelt
             }
         }
 
-        private void BtnSalvar_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void BtnExcluir_Click(object sender, EventArgs e)
         {
             var id = Convert.ToInt32(DgvLivros.Rows[DgvLivros.CurrentCell.RowIndex].Cells["id"].Value);
@@ -67,7 +59,5 @@ namespace CrudGelt
             dt = Livros.GetLivros(TxtBuscar.Text);
             DgvLivros.DataSource= dt;
         }
-
-
     }
 }

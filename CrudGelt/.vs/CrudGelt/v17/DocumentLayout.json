@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\TI\\CrudGelt\\CrudGelt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|c:\\ti\\crudgelt\\crudgelt\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,24 +19,20 @@
       "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|c:\\ti\\crudgelt\\crudgelt\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|C:\\TI\\CrudGelt\\CrudGelt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3DF05FE-E2D4-4CB5-9372-7CD395449057}|CrudGelt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Livros.cs",
               "DocumentMoniker": "C:\\TI\\CrudGelt\\CrudGelt\\Livros.cs",
               "RelativeDocumentMoniker": "Livros.cs",
-              "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\Livros.cs",
-              "RelativeToolTip": "Livros.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGcAAAA7AAAAAAAAAA==",
+              "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\Livros.cs*",
+              "RelativeToolTip": "Livros.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T18:52:03.905Z",
               "IsPinned": true,
@@ -64,51 +60,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TI\\CrudGelt\\CrudGelt\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:43:03.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FormCadastro.cs",
               "DocumentMoniker": "C:\\TI\\CrudGelt\\CrudGelt\\FormCadastro.cs",
               "RelativeDocumentMoniker": "FormCadastro.cs",
-              "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\FormCadastro.cs",
-              "RelativeToolTip": "FormCadastro.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAIwIAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\FormCadastro.cs*",
+              "RelativeToolTip": "FormCadastro.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T19:09:52.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FormCadastro.cs [Design]",
               "DocumentMoniker": "C:\\TI\\CrudGelt\\CrudGelt\\FormCadastro.cs",
               "RelativeDocumentMoniker": "FormCadastro.cs",
-              "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\FormCadastro.cs [Design]",
-              "RelativeToolTip": "FormCadastro.cs [Design]",
+              "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\FormCadastro.cs [Design]*",
+              "RelativeToolTip": "FormCadastro.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T19:03:44.246Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FormData.cs",
               "DocumentMoniker": "C:\\TI\\CrudGelt\\CrudGelt\\FormData.cs",
               "RelativeDocumentMoniker": "FormData.cs",
               "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\FormData.cs*",
               "RelativeToolTip": "FormData.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T18:58:38.234Z",
               "EditorCaption": ""
@@ -140,20 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\TI\\CrudGelt\\CrudGelt\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\TI\\CrudGelt\\CrudGelt\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAvwDwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T18:35:16.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\TI\\CrudGelt\\CrudGelt\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

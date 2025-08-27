@@ -22,14 +22,8 @@ namespace CrudGelt
         public int Estoque_minimo { get; set; }
         public Char Ativo { get; set; }
 
-
-
-
         public void SalvarLivro()
         {
-            
-
-
             var sql = "";
 
             if (this.Id == 0)

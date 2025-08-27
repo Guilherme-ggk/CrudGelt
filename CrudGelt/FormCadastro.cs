@@ -65,8 +65,7 @@ namespace CrudGelt
 
         private void BtnSalvar_Click(object sender, EventArgs e)
         {
-          
-            
+        
                 livros.Isbn = TxtIsbn.Text;
                 livros.Titulo = TxtTitulo.Text;
                 livros.Autores = TxtAutores.Text;
@@ -78,15 +77,9 @@ namespace CrudGelt
                 else
                     livros.Ativo = 'N';
 
-
                 livros.SalvarLivro();
                 this.Close();
-           
-
-           
-
         }
-
 
         private bool ValidarForm()
         {
