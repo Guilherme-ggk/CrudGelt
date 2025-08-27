@@ -58,9 +58,9 @@ namespace CrudGelt
         public void ActiveButton(Button FrmAtivo)
         {
             foreach(Control Ctrl in PanelPrincipal.Controls)
-                Ctrl.ForeColor = Color.Red;
+                Ctrl.ForeColor = Color.Black;
 
-            FrmAtivo.ForeColor = Color.Green;
+            FrmAtivo.ForeColor = Color.Blue;
         }
 
     }

@@ -30,7 +30,6 @@
         {
             this.DgvLivros = new System.Windows.Forms.DataGridView();
             this.BtnAdicionar = new System.Windows.Forms.Button();
-            this.BtnSalvar = new System.Windows.Forms.Button();
             this.BtnExcluir = new System.Windows.Forms.Button();
             this.BtnImprimir = new System.Windows.Forms.Button();
             this.BtnBuscar = new System.Windows.Forms.Button();
@@ -61,19 +60,9 @@
             this.BtnAdicionar.UseVisualStyleBackColor = true;
             this.BtnAdicionar.Click += new System.EventHandler(this.BtnAdicionar_Click);
             // 
-            // BtnSalvar
-            // 
-            this.BtnSalvar.Location = new System.Drawing.Point(241, 2);
-            this.BtnSalvar.Name = "BtnSalvar";
-            this.BtnSalvar.Size = new System.Drawing.Size(103, 32);
-            this.BtnSalvar.TabIndex = 2;
-            this.BtnSalvar.Text = "salvar";
-            this.BtnSalvar.UseVisualStyleBackColor = true;
-            this.BtnSalvar.Click += new System.EventHandler(this.BtnSalvar_Click);
-            // 
             // BtnExcluir
             // 
-            this.BtnExcluir.Location = new System.Drawing.Point(362, 2);
+            this.BtnExcluir.Location = new System.Drawing.Point(250, 2);
             this.BtnExcluir.Name = "BtnExcluir";
             this.BtnExcluir.Size = new System.Drawing.Size(103, 32);
             this.BtnExcluir.TabIndex = 3;
@@ -83,7 +72,7 @@
             // 
             // BtnImprimir
             // 
-            this.BtnImprimir.Location = new System.Drawing.Point(482, 2);
+            this.BtnImprimir.Location = new System.Drawing.Point(372, 2);
             this.BtnImprimir.Name = "BtnImprimir";
             this.BtnImprimir.Size = new System.Drawing.Size(103, 32);
             this.BtnImprimir.TabIndex = 4;
@@ -111,14 +100,14 @@
             // 
             // TxtBuscar
             // 
-            this.TxtBuscar.Location = new System.Drawing.Point(15, 76);
+            this.TxtBuscar.Location = new System.Drawing.Point(12, 76);
             this.TxtBuscar.Name = "TxtBuscar";
-            this.TxtBuscar.Size = new System.Drawing.Size(460, 20);
+            this.TxtBuscar.Size = new System.Drawing.Size(463, 20);
             this.TxtBuscar.TabIndex = 7;
             // 
             // BtnAlterar
             // 
-            this.BtnAlterar.Location = new System.Drawing.Point(121, 2);
+            this.BtnAlterar.Location = new System.Drawing.Point(130, 2);
             this.BtnAlterar.Name = "BtnAlterar";
             this.BtnAlterar.Size = new System.Drawing.Size(103, 32);
             this.BtnAlterar.TabIndex = 8;
@@ -137,7 +126,6 @@
             this.Controls.Add(this.BtnBuscar);
             this.Controls.Add(this.BtnImprimir);
             this.Controls.Add(this.BtnExcluir);
-            this.Controls.Add(this.BtnSalvar);
             this.Controls.Add(this.BtnAdicionar);
             this.Controls.Add(this.DgvLivros);
             this.Name = "FormData";
@@ -153,7 +141,6 @@
 
         private System.Windows.Forms.DataGridView DgvLivros;
         private System.Windows.Forms.Button BtnAdicionar;
-        private System.Windows.Forms.Button BtnSalvar;
         private System.Windows.Forms.Button BtnExcluir;
         private System.Windows.Forms.Button BtnImprimir;
         private System.Windows.Forms.Button BtnBuscar;

@@ -43,6 +43,7 @@ namespace CrudGelt
             using (var frm = new FormCadastro(id))
             {
                 frm.ShowDialog();
+                DgvLivros.DataSource = dt;
             }
         }
 
@@ -57,6 +58,7 @@ namespace CrudGelt
             using (var frm = new FormCadastro(id, true))
             {
                 frm.ShowDialog();
+                DgvLivros.DataSource = dt;
             }
         }
 
