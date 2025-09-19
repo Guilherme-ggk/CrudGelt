@@ -32,6 +32,7 @@ namespace CrudGelt
                 frm.ShowDialog();
                 DgvLivros.DataSource = Livros.GetLivros();
             }
+
         }
 
         private void BtnAlterar_Click(object sender, EventArgs e)
