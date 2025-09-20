@@ -58,6 +58,10 @@ namespace CrudGelt
         }
 
 
+
+
+
+
         public void GetLivro(int id)
         {
             var sql = "SELECT * FROM livros WHERE id=" + id;

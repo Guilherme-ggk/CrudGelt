@@ -79,6 +79,9 @@ namespace CrudGelt
 
                 livros.SalvarLivro();
                 this.Close();
+
+
+
         }
 
         private bool ValidarForm()
